@@ -23,7 +23,4 @@ hidden: true
 
 Essentials <autogluon-cloud>
 Foundation Models <foundation_model>
-Image Modality <image-modality>
-Distributed Training <distributed-training>
-FAQ <faq>
 ```
